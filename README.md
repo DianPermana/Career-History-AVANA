@@ -1,5 +1,5 @@
 # AVANA
-AVANA is a social commerce platform that helps online sales through websites and social media
+AVANA is Southeast Asia's social commerce enabler that helps small businesses convert social media from promotional to transactional platforms. AVANA partners with the likes of Facebook, Google, marketplaces, and other big players in the region to aggregate sellers from these channels in 1 single dashboard and help them grow their business
 
 ## Career History
 
@@ -32,7 +32,7 @@ Pycharm, Jenkins, Gherkin, Android Studio, Genymotion, Pytest, Appium Inspector,
 
 
 ## Thank You
-Thank You so much  Marathon & Ripple Team (UI/UX Designer, Product Manager, backend, frontend, Quality Assurance and Support)
+Thank You so much  Marathon & Ripple Team (UI/UX Designer, Product Manager, backend, frontend, Mobile, Quality Assurance and Support)
 
 Thank you,
 
