@@ -32,7 +32,7 @@ https://github.com/DianPermana/Career-History-AVANA/assets/18004033/20431444-e1f
 
 
 ## Achievement
-- Succesfully test EndtoEnd test automation for all application in one framework : Dashboard, Wacommerce, Webstore (different theme), Mobile Android as Seller, Reseller, Affiliate, Dropship, Stockist, etc
+- Succesfully EndtoEnd test automation for all application : Dashboard, Wacommerce, Webstore (different theme), Mobile Android as Seller, Reseller, Affiliate, Dropship, Stockist, etc
 - Regression test with Automation : Rizalman flash sale new records unlock almost IDR 8M
 
 ## Tech Stack
