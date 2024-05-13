@@ -23,9 +23,11 @@ AVANA is Southeast Asia's social commerce enabler that helps small businesses co
 
 
 Example Add product using Selenium + Appium
+
 https://github.com/DianPermana/Career-History-AVANA/assets/18004033/c68ac2ba-23fb-4375-9f70-8d092eb1eda9
 
 Example Add product via dashboard using TestCafe
+
 https://github.com/DianPermana/Career-History-AVANA/assets/18004033/20431444-e1f1-408c-9283-93a948894c89
 
 
