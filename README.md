@@ -21,7 +21,7 @@ AVANA is Southeast Asia's social commerce enabler that helps small businesses co
 |--------------|---------------|-------------------|
 | ![image](https://github.com/DianPermana/Career-History-AVANA/assets/18004033/c4d07e37-e8b1-4466-a69a-9434677069b4) | ![image](https://github.com/DianPermana/Career-History-AVANA/assets/18004033/6cc9e7e3-bee9-47ed-879c-7bf79b523cfb) | ![image](https://github.com/DianPermana/Career-History-AVANA/assets/18004033/af01b17c-8060-4e49-ad4c-63dd0735489c)
 
-
+Link : https://docs.google.com/document/d/13o3m9YVHegh4WAnpsaZyBABnr1WtbZ5H3TdMlTyHNiQ
 Example Add product using Selenium + Appium
 
 https://github.com/DianPermana/Career-History-AVANA/assets/18004033/c68ac2ba-23fb-4375-9f70-8d092eb1eda9
@@ -39,8 +39,10 @@ https://github.com/DianPermana/Career-History-AVANA/assets/18004033/20431444-e1f
 Pycharm, Jenkins, Gherkin, Android Studio, Genymotion, Pytest, Appium Inspector, Allure Report,Slack, Click-up, Google DOC, Language : Python.
 
 ## Thank You
-Thank You so much  Marathon & Ripple Team (UI/UX Designer, Product Manager, backend, frontend, Mobile, Quality Assurance and Support)
+Thank You so much Non-Product & product : Marathon & Ripple Team (UI/UX Designer, Product Manager, Backend, Frontend, Mobile) and ya especially for QA Team. tak ada Gading yang tak retak, sukses selalu dimanapun berada
 
 Thank you,
+
+Happy Testing!!!
 
 Dian Permana
