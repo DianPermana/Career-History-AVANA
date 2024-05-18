@@ -4,11 +4,11 @@ AVANA is Southeast Asia's social commerce enabler that helps small businesses co
 ## Career History
 
 ### QA Lead (Feb 2022 - Apr 2023)
-- Developed and executed test strategies, test plans, and test cases for web and mobile applications.
+- Developed test strategies, test plans, and test cases Integrations for All AVANA Product.
 - Implemented E2E automation testing for web & mobile, monitoring, identify and evaluate software development performance
 - Collaborated with developers and product managers to ensure high-quality products were delivered on time.
 - Managed a team of QA engineers and mentored junior testers.
-- Created and maintained documentation for test plans, test cases, and testing processes
+- Created and maintained documentation
 
 ### QA Engineer (Sep 2021 - Fab 2022)
 - Developed and executed test plans, and test cases for web apps (EndtoEnd Testing).
